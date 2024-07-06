@@ -4,4 +4,5 @@ locals {
       Team = "DevOps"
       Environment = "Dev"
     }
+    
 }
